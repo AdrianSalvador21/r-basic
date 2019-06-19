@@ -1,4 +1,4 @@
-#Esta línea no funciona, por ahora...
+#Esto es un comentario
 #lm(y~x)
 
 
@@ -21,3 +21,4 @@ plot(lm.D9, las = 1)      # Residuals, Fitted, ...
 par(opar)
 
 ### less simple examples in "See Also" above
+
